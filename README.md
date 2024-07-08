@@ -1,5 +1,5 @@
 # Free-VMWare-Workstation-Pro
-Get VMWare Workstation exe and License Key for free
+Get VMWare Workstation License Key for free
 
 # Guide
 1. Download VMware
